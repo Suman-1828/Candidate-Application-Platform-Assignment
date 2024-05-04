@@ -1,5 +1,3 @@
-// JobListings.js
-
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { fetchJobs } from '../redux/actions';
