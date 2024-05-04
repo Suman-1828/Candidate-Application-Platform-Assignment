@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Job Application Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Overview
+This project is a candidate application platform that allows users to view job listings, filter jobs based on various criteria, and implement infinite scroll for a seamless browsing experience. The platform provides a user-friendly interface for viewing and applying to jobs.
+
+# Features
+-> View job listings with job title, company name, location, description, experience required, and apply button/link.
+-> Filter jobs based on criteria such as minimum experience, company name, location, remote/on-site, tech stack, role, and minimum base pay.
+-> Infinite scroll implementation for automatic loading of additional job listings as the user scrolls down the page.
+-> Responsive design for compatibility with various screen sizes, including mobile devices.
+
+# Technology Stack
+1) ReactJS
+2) Redux
+3) CSS
+4) Material UI
 
 ## Available Scripts
 
@@ -68,3 +81,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Usage
+1) Visit the deployed application or run it locally.
+2) View job listings on the homepage.
+3) Use filters to refine job listings based on criteria.
+4) Scroll down to load additional job listings automatically.
+5) Click on the apply button/link to apply to a job.
+
+
